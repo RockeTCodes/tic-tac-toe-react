@@ -8,4 +8,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-This is deployed at : https://tic-tac-toe-rocketcodes.surge.sh/
+This is deployed at : https://tic-tac-toe-rocketcodes.surge.sh
